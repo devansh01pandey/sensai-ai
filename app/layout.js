@@ -29,7 +29,7 @@ export default function RootLayout({ children }) {
               <main className="min-h-screen">{children}</main>
               {/* footer */}
               <footer className="bg-muted/50 py-12">
-                <div className="container mx-auto px-4 text-center text-gray-200">Made with Love by Devansh Pandey</div>
+                <div className="container mx-auto px-4 text-center text-gray-200">Made by Devansh Pandey</div>
               </footer>
               
             </ThemeProvider>
